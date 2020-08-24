@@ -8,6 +8,7 @@
 - [Mandatory Access Control](mandatory-access-control.md)
 - [inetd Services](inetd-services.md)
 - [Time Synchronization](time-synchronization.md)
+- [Network Configuration](network-configuration.md)
 
 
 
