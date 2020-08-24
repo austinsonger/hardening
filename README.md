@@ -5,6 +5,7 @@
 
 - [Secure Boot Settings](/secure-boot-settings.md)
 - [Process Settings](process-settings.md)
+- [Mandatory Access Control](mandatory-access-control.md)
 
 
 
