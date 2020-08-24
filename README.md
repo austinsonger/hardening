@@ -9,6 +9,7 @@
 - [inetd Services](inetd-services.md)
 - [Time Synchronization](time-synchronization.md)
 - [Network Configuration](network-configuration.md)
+- [Logging and Auditing](logging-and-auditing.md)
 
 
 
