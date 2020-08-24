@@ -196,7 +196,7 @@ grep -Els "A\s*net\.ipv6\.conf\.all\.forwarding\s*=\s*1" /etc/sysctl.conf /etc/s
 
 
 
-### ***3.4.4.1\***   Configure IPv4 iptables
+### Configure IPv4 iptables
 
 > Iptables is used to set up, maintain, and inspect the tables of IP packet filter rules in the Linux kernel. Several different tables may be defined. Each table contains a number of built-in chains and may also contain user-defined chains.
 
@@ -222,7 +222,7 @@ grep -Els "A\s*net\.ipv6\.conf\.all\.forwarding\s*=\s*1" /etc/sysctl.conf /etc/s
 
 
 
-### ***3.4.4.1\***   Configure IPv6 ip6tables
+### Configure IPv6 ip6tables
 
 > Ip6tables is used to set up, maintain, and inspect the tables of IPv6 packet filter rules in the Linux kernel. Several different tables may be defined. Each table contains a number of built-in chains and may also contain user-defined chains. Each chain is a list of rules which can match a set of packets. Each rule specifies what to do with a packet that matches. This is called a 'target', which may be a jump to a user-defined chain in the same table.
 
